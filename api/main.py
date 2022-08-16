@@ -5,7 +5,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-fakedb = []
+fakedb = [{"course1":"Math"}]
 
 class Course(BaseModel):
     id:int
