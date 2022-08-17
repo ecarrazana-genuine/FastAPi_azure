@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7b5a3f0d-21aa-4706-9e92-710fd88ecc36/microsoft.web/sites/subscriptions/7b5a3f0d-21aa-4706-9e92-710fd88ecc36/resourceGroups/ghg_prod/providers/Microsoft.Web/sites/fastapi-ghg",
+    "appService.deploySubpath": "."
+}
